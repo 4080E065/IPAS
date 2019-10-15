@@ -35,7 +35,7 @@ D. Rootkit根套件
 ```
 # 4.
 ```
-You are responsible for incident response at Acme bank. The Acme bank website has been
+You are responsible負責任的 for incident response at Acme bank. The Acme bank website has been
 attacked. The attacker used the login screen, but rather than enter login credentials, he or
 she entered some odd text: ' or '1' = '1. What is the best description for this attack?
 A. Cross-site scripting

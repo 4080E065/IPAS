@@ -10,14 +10,14 @@ D. Key logger鍵盤側錄
 ```
 ```
 
-2. Ahmed is a sales manager with a major insurance company. He has received an email that
-is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
-but it does mention a major insurance association, and that makes him think it might be
-legitimate. Which of the following best describes this attack?
-A. Phishing
-B. Social engineering
-C. Spear phishing
-D. Trojan horse
+2. Ahmed is a sales manager銷售經理 with a major insurance保險 company. He has received已收到 an email that
+is encouraging鼓舞人心的 him to click on a link and fill out a survey調查. He is suspicious懷疑 of the email,
+but it does mention提到 a major insurance association保險協會, and that makes him think it might be
+legitimate可能合法. Which of the following best describes描述 this attack?
+A. Phishing網絡釣魚
+B. Social engineering社會工程學
+C. Spear phishing魚叉式網絡釣魚
+D. Trojan horse特洛伊木馬
 
 ```
 

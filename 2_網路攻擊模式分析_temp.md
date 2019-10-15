@@ -65,6 +65,66 @@ D. An IDS
 
 ```
 
+# 7.
+```
+You are responsible for network security at Acme Company. Users have been reporting
+that personal data is being stolen when using the wireless network. They all insist they
+only connect to the corporate wireless access point (WAP). However, logs for the WAP
+show that these users have not connected to it. Which of the following could best explain
+this situation?
+A. Session hijacking
+B. Clickjacking
+C. Rogue access point
+D. Bluejacking
+
+```
+
+# 8.
+```
+What type of attack depends on the attacker entering JavaScript into a text area that is
+intended for users to enter text that will be viewed by other users?
+A. SQL injection
+B. Clickjacking
+C. Cross-site scripting
+D. Bluejacking
+
+```
+# 9.
+```
+A sales manager at your company is complaining about slow performance on his computer.
+When you thoroughly investigate the issue, you find spyware on his computer. He
+insists that the only thing he has downloaded recently was a freeware stock trading application.
+What would best explain this situation?
+A. Logic bomb
+B. Trojan horse
+C. Rootkit
+D. Macro virus
+```
+
+# 10.
+```
+Your company outsourced development of an accounting application to a local programming
+firm. After three months of using the product, one of your accountants accidently
+discovers a way to log in and bypass all security and authentication. What best describes
+this?
+A. Logic bomb
+B. Trojan horse
+C. Backdoor
+D. Rootkit
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

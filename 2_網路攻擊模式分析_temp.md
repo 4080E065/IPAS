@@ -1,5 +1,6 @@
+# 1.
 ```
-1. John is analyzing(分析) strange(奇怪) behavior(行為) on computers in his network. He believes there is malware(惡意軟件)
+John is analyzing(分析) strange(奇怪) behavior(行為) on computers in his network. He believes there is malware(惡意軟件)
 on the machines. The symptoms(症狀) include strange behavior that persists(堅持), even if he
 boots(啟動) the machine to a Linux Live CD. What is the most likely cause?
 A. Ransomware勒索軟件
@@ -8,9 +9,10 @@ C. Rootkit根套件
 D. Key logger鍵盤側錄
 
 ```
+#2.
 ```
 
-2. Ahmed is a sales manager銷售經理 with a major insurance保險 company. He has received已收到 an email that
+Ahmed is a sales manager銷售經理 with a major insurance保險 company. He has received已收到 an email that
 is encouraging鼓舞人心的 him to click on a link and fill out a survey調查. He is suspicious懷疑 of the email,
 but it does mention提到 a major insurance association保險協會, and that makes him think it might be
 legitimate可能合法. Which of the following best describes描述 this attack?
@@ -20,9 +22,9 @@ C. Spear phishing魚叉式網絡釣魚
 D. Trojan horse特洛伊木馬
 
 ```
-
+# 3.
 ```
-3. You are a security administrator for a medium-sized bank. You have discovered a piece of
+You are a security administrator for a medium-sized bank. You have discovered a piece of
 software on your bank’s database server that is not supposed to be there. It appears that
 the software will begin deleting database files if a specific employee is terminated. What
 best describes this?
@@ -31,8 +33,9 @@ B. Logic bomb
 C. Trojan horse
 D. Rootkit
 ```
+# 4.
 ```
-4. You are responsible for incident response at Acme bank. The Acme bank website has been
+You are responsible for incident response at Acme bank. The Acme bank website has been
 attacked. The attacker used the login screen, but rather than enter login credentials, he or
 she entered some odd text: ' or '1' = '1. What is the best description for this attack?
 A. Cross-site scripting
@@ -40,8 +43,9 @@ B. Cross-site request forgery
 C. SQL injection
 D. ARP poisoning
 ```
+# 5.
 ```
-5. Juanita is a network administrator for a small accounting firm. The users on her network
+Juanita is a network administrator for a small accounting firm. The users on her network
 are complaining of slow connectivity. When she examines the firewall logs, she observes a
 large number of half-open connections. What best describes this attack?
 A. DDoS
@@ -49,8 +53,9 @@ B. SYN flood
 C. Buffer overflow
 D. ARP poisoning
 ```
+# 6.
 ```
-6. Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
+Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
 worried about cross-site scripting and SQL injection. Which of the following
 would best defend against these two specific attacks?
 A. Encrypted web traffic

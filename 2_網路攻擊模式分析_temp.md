@@ -9,7 +9,7 @@ C. Rootkit根套件
 D. Key logger鍵盤側錄
 
 ```
-#2.
+# 2.
 ```
 
 Ahmed is a sales manager銷售經理 with a major insurance保險 company. He has received已收到 an email that
@@ -24,14 +24,14 @@ D. Trojan horse特洛伊木馬
 ```
 # 3.
 ```
-You are a security administrator for a medium-sized bank. You have discovered a piece of
-software on your bank’s database server that is not supposed to be there. It appears that
-the software will begin deleting database files if a specific employee is terminated. What
-best describes this?
+You are a security安全 administrator管理員 for a medium-sized bank中型銀行. You have discovered a piece of
+software軟件 on your bank’s database數據庫 server that is not supposed to be there. It appears出現 that
+the software will begin deleting刪除中 database files檔案 if a specific具體 employee僱員 is terminated終止. What
+best describes描述 this?
 A. Worm
-B. Logic bomb
-C. Trojan horse
-D. Rootkit
+B. Logic bomb邏輯炸彈
+C. Trojan horse特洛伊木馬
+D. Rootkit根套件
 ```
 # 4.
 ```

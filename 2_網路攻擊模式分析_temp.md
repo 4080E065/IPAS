@@ -21,9 +21,44 @@ D. Trojan horse特洛伊木馬
 
 ```
 
+```
+3. You are a security administrator for a medium-sized bank. You have discovered a piece of
+software on your bank’s database server that is not supposed to be there. It appears that
+the software will begin deleting database files if a specific employee is terminated. What
+best describes this?
+A. Worm
+B. Logic bomb
+C. Trojan horse
+D. Rootkit
+```
+```
+4. You are responsible for incident response at Acme bank. The Acme bank website has been
+attacked. The attacker used the login screen, but rather than enter login credentials, he or
+she entered some odd text: ' or '1' = '1. What is the best description for this attack?
+A. Cross-site scripting
+B. Cross-site request forgery
+C. SQL injection
+D. ARP poisoning
+```
+```
+5. Juanita is a network administrator for a small accounting firm. The users on her network
+are complaining of slow connectivity. When she examines the firewall logs, she observes a
+large number of half-open connections. What best describes this attack?
+A. DDoS
+B. SYN flood
+C. Buffer overflow
+D. ARP poisoning
+```
+```
+6. Frank is deeply concerned about attacks to his company’s e-commerce server. He is particularly
+worried about cross-site scripting and SQL injection. Which of the following
+would best defend against these two specific attacks?
+A. Encrypted web traffic
+B. Filtering user input
+C. A firewall
+D. An IDS
 
-
-
+```
 
 
 

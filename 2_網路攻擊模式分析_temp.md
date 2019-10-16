@@ -127,53 +127,53 @@ D. Rootkit
 ```
 What type of attack exploits漏洞利用 the trust信任 that a website has for an authenticated已認證 user to
 attack that website by spoofing欺騙 requests要求 from the trusted user?
-A. Cross-site scripting
-B. Cross-site request forgery
-C. Bluejacking
-D. Evil twin
+A. Cross-site scripting跨站腳本
+B. Cross-site request forgery跨站點偽造
+C. Bluejacking二十一點
+D. Evil twin邪惡的雙胞胎（無線網絡）
 ```
 # 52.
 ```
-John is a network administrator for Acme Company. He has discovered that someone
-has registered a domain name that is spelled just one letter different than his company’s
-domain. The website with the misspelled URL is a phishing site. What best describes this
+John is a network administrator管理員 for Acme Company. He has discovered that someone
+has registered註冊 a domain域 name that is spelled拼寫 just one letter different than his company’s
+domain. The website with the misspelled拼寫錯誤 URL網址 is a phishing網絡釣魚 site. What best describes this
 attack?
-A. Session hijacking
-B. Cross-site request forgery
+A. Session hijacking會話劫持
+B. Cross-site request forgery跨站點偽造
 C. Typosquatting
-D. Clickjacking
+D. Clickjacking點擊劫持
 ```
 # 53.
 ```
 Frank has discovered that someone was able to get information from his smartphone
-using a Bluetooth connection. The attacker was able to get his contact list and some
-emails he had received. What is this type of attack called?
-A. Bluesnarfing
-B. Session hijacking
-C. Backdoor attack
-D. CSRF
+using a Bluetooth connection. The attacker was able to get his contact list清單 and some
+emails he had received已收到. What is this type of attack called?
+A. Bluesnarfing怒吼
+B. Session hijacking會話劫持
+C. Backdoor attack後門攻擊
+D. CSRF跨站請求偽造
 ```
 # 54.
 ```
-Juanita is a network administrator for Acme Company. Some users complain that they
-k1eep getting dropped from the network. When Juanita checks the logs for the wireless
-access point (WAP), she finds that a deauthentication packet has been sent to the WAP
+Juanita is a network administrator管理員 for Acme Company. Some users complain that they
+k1eep getting dropped掉落 from the network. When Juanita checks the logs for the wireless
+access point (WAP)無線切入點, she finds that a deauthentication取消認證 packet has been sent to the WAP
 from the users’ IP addresses. What seems to be happening here?
-A. Problem with users’ WiFi configuration
-B. Disassociation attack
-C. Session hijacking
-D. Backdoor attack
+A. Problem with users’ WiFi configuration用戶的WiFi配置出現問題
+B. Disassociation attack解除關聯攻擊
+C. Session hijacking會話劫持
+D. Backdoor attack後門攻擊
 ```
 
 # 55.
 ```
-John has discovered that an attacker is trying to get network passwords by using software
-that attempts a number of passwords from a list of common passwords. What type of
+John has discovered that an attacker is trying to get network passwords by using software軟件
+that attempts嘗試 a number of passwords from a list of common常見清單 passwords. What type of
 attack is this?
-A. Dictionary
-B. Rainbow table
-C. Brute force
-D. Session hijacking
+A. Dictionary字典
+B. Rainbow table彩虹桌
+C. Brute force蠻力
+D. Session hijacking會話劫持
 ```
 
 

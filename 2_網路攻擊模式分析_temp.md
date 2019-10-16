@@ -123,6 +123,66 @@ D. Rootkit
 
 
 
+# 51.
+```
+What type of attack exploits the trust that a website has for an authenticated user to
+attack that website by spoofing requests from the trusted user?
+A. Cross-site scripting
+B. Cross-site request forgery
+C. Bluejacking
+D. Evil twin
+```
+# 52.
+```
+John is a network administrator for Acme Company. He has discovered that someone
+has registered a domain name that is spelled just one letter different than his company’s
+domain. The website with the misspelled URL is a phishing site. What best describes this
+attack?
+A. Session hijacking
+B. Cross-site request forgery
+C. Typosquatting
+D. Clickjacking
+```
+# 53.
+```
+Frank has discovered that someone was able to get information from his smartphone
+using a Bluetooth connection. The attacker was able to get his contact list and some
+emails he had received. What is this type of attack called?
+A. Bluesnarfing
+B. Session hijacking
+C. Backdoor attack
+D. CSRF
+```
+# 54.
+Juanita is a network administrator for Acme Company. Some users complain that they
+k1eep getting dropped from the network. When Juanita checks the logs for the wireless
+access point (WAP), she finds that a deauthentication packet has been sent to the WAP
+from the users’ IP addresses. What seems to be happening here?
+A. Problem with users’ WiFi configuration
+B. Disassociation attack
+C. Session hijacking
+D. Backdoor attack
+```
+
+# 55.
+```
+John has discovered that an attacker is trying to get network passwords by using software
+that attempts a number of passwords from a list of common passwords. What type of
+attack is this?
+A. Dictionary
+B. Rainbow table
+C. Brute force
+D. Session hijacking
+```
+
+
+
+
+
+
+
+
+
 
 
 

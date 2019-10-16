@@ -154,6 +154,7 @@ C. Backdoor attack
 D. CSRF
 ```
 # 54.
+```
 Juanita is a network administrator for Acme Company. Some users complain that they
 k1eep getting dropped from the network. When Juanita checks the logs for the wireless
 access point (WAP), she finds that a deauthentication packet has been sent to the WAP

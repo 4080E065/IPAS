@@ -125,8 +125,8 @@ D. Rootkit
 
 # 51.
 ```
-What type of attack exploits the trust that a website has for an authenticated user to
-attack that website by spoofing requests from the trusted user?
+What type of attack exploits漏洞利用 the trust信任 that a website has for an authenticated已認證 user to
+attack that website by spoofing欺騙 requests要求 from the trusted user?
 A. Cross-site scripting
 B. Cross-site request forgery
 C. Bluejacking
